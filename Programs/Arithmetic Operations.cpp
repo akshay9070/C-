@@ -19,5 +19,6 @@ int main()
     cout << a << "-" << b << " = "<< sub << endl;
     cout << a << "*" << b << " = "<< mul << endl;
     cout << a << "/" << b << " = "<<div << endl;
+    return 0;
      
 }
