@@ -10,4 +10,5 @@ int main()
      cin >> a >> b;
 
      cout << "a=" << a << "\nb=" << b;
+     return 0;
 }
